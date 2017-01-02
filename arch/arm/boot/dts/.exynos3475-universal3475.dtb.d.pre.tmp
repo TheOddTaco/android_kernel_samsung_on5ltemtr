@@ -1,0 +1,5 @@
+exynos3475-universal3475.o: \
+ arch/arm/boot/dts/exynos3475-universal3475.dts \
+ arch/arm/boot/dts/exynos3475.dtsi arch/arm/boot/dts/skeleton.dtsi \
+ /home/ksh0807/Perforce/opensource/android/kernel/exynos3475/arch/arm/boot/dts/include/dt-bindings/clock/exynos3475.h \
+ /home/ksh0807/Perforce/opensource/android/kernel/exynos3475/arch/arm/boot/dts/include/dt-bindings/sysmmu/sysmmu.h
